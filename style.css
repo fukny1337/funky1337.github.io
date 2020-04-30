@@ -86,7 +86,6 @@
     font-family: Anton;
     display: flex;
     justify-content: center;
-    text-align: center;
     font-size: 100px;
     color: #CB444B;
     margin: 25px 0px 0px 0px;
@@ -120,7 +119,6 @@
     font-size: 100px;
     display: flex;
     justify-content: center;
-    text-align: center;
     margin: 0px;
     padding: 0px;
 }
@@ -187,7 +185,7 @@
 }
 
 .contener{
-    width: 640px;
+    width: 1280px;
     margin: 70px auto 0;
     display: flex;
     flex-direction: row;
